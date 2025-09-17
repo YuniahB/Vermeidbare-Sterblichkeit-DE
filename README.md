@@ -56,3 +56,15 @@ python src/make\_plots.py
 
 
 
+
+## 📊 Visuals
+
+<p align="center">
+  <img src="assets/trend_vermeidbare_sterblickeit.png" alt="Trend vs Ziel" width="75%">
+</p>
+<p align="center">
+  <img src="assets/bar_vermeidbare_sterblickeit.png" alt="Jahreswerte" width="75%">
+</p>
+<p align="center">
+  <img src="assets/trend_mit_rolling_mean.png" alt="Trend (Rolling Mean)" width="75%">
+</p>
